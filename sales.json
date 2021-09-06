@@ -1,0 +1,8 @@
+sales = {1 : {'prod' : 'Chips', 'quantity' : 5, "price" : 10, "GST" : 2},
+         2 : {'prod' : 'Chocolate pudding', 'quantity' : 10, "price" : 100, "GST" : 2},
+         3 : {'prod' : 'Drinks', 'quantity' : 8, "price" : 85, "GST" : 5},
+         4 : {'prod' : 'Coke', 'quantity' : 5, "price" : 50, "GST" : 2},
+         5 : {'prod' : 'Charger', 'quantity' : 6, "price" : 199, "GST" : 2}, 
+         6 : {'prod' : 'Butter', 'quantity' : 15, "price" : 20, "GST" : 5},
+         7 : {'prod' : 'Milk', 'quantity' : 15, "price" : 30, "GST" : 5},
+         8 : {'prod' : 'Paneer', 'quantity' : 5, "price" : 30, "GST" : 2}}
